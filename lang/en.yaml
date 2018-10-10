@@ -92,7 +92,7 @@ upload_csv_desc3: Delete enable column to delete or change to 0.
 upload_csv_desc4: Add    empty id column, and fill other column.
 file: Attached file
 sota_download: SOTA Download
-sota_download: ADI Download
+adi_download: ADI Download
 analysis: Log Analysis
 reflector: Reflector
 faq: FAQ
