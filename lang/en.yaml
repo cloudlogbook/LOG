@@ -1,0 +1,98 @@
+lang: en
+language: English
+lang_type: Language
+ja: Japanese(日本語)
+en: English
+back: BACK
+username: Login Username
+password: Login Password
+callsign: Callsign
+operator: Operater
+email: E-Mail Address
+signin: Signin
+signout: Signout
+new_regist: Regist
+hkesk: alphabet,number,._-+
+hkes_call: alphabet,number
+confirm: Re Enter
+terms: Terms & Conditions
+agree: I Accept 
+eight_char: 8 or more characters
+short: password too short
+short3: username too short
+notsame: not same password
+name_char: username must be alphabet,number and ._-+
+callsign_char: callsign must be alphabet and number.
+req_agree: requre agreement Terms & Conditions.
+confirm: Registration Confirm
+regist_sendmail: Send E-Mail your address. Please check your mail. please check your spam folder.
+regist_mail_sbj: Ah-huh LOG registration confirm
+regist_mail_body: This is confirmation mail. Please access URL as follow, if you accept registration..
+exists_user: Username already use. Please change username.
+exists_mail: your E-Mail address already use. Please check account.
+reconfirm_ok: Your E-Mail address is valid. Please push regist done button as follow.
+success: Success
+regist_done: Regist Done. <a href="/">Please Login</a>
+forget_pass: Forget password
+restore_desc: Please type your E-Mail Address.
+restore: Reset Password
+restore_error: Cannot find your E-Mail address.
+restore_mail_sbj: Ah-huh LOG password reset confirm
+restore_mail_body: This is password reset mail for your request. Please access URL as follow, if you accept.
+restore_sendmail: Send E-Mail your address. Please check your mail.
+restore_reconfirm_ok: Your E-Mail address is valid. Please reset password.
+reset_pass: Password Reset
+pw_mismatch: Authentication error.
+pw_error1: Error occurred(1). please check password.
+pw_error2: Error occurred(2). please check password.
+pw_changed: password changed. <a href="/">TOP</a>
+last_login: Last Login
+last_update: Last Update
+delete: Delete
+confirm_delete: Delete OK?
+confirm_enable: Enable OK?
+cencel_done: Canceled
+uid: User ID
+secret: ********
+edit: Submit
+pen: Edit
+user_admin: User Settings
+log: LOG
+timezone: TimeZone
+timezone_err: Timezone missmatch
+station_admin: Station Settings
+bio: BIO
+add: Add
+new: New
+callsign_err: Callsign Format Error!
+start_time: StartTime
+end_time: EndTime
+radio_freq: Freqency
+radio_mode: Mode
+call_cq: CallCQ
+call_via: Via
+my_callsign: MyCallsign
+my_rst: Send RS(T)
+my_location: MyLocation
+my_rig: MyRIG
+your_callsign: HisCallsign
+your_rst: Recv RS(T)
+your_name: HisOperator
+your_location: HisLocation
+send_qsl: Send QSL
+recv_qsl: Recv QSL
+remarks: Remarks(Share)
+my_remarks: Remarks(own)
+enable: Enable
+upload: CSV Upload
+download: CSV Download
+upload_csv_desc: You can upload CSV with "download CSV format" for ADD/EDIT/DELETE logs.
+upload_csv_desc2: Change do not change download id number,and change other column.
+upload_csv_desc3: Delete enable column to delete or change to 0.
+upload_csv_desc4: Add    empty id column, and fill other column.
+file: Attached file
+sota_download: SOTA Download
+sota_download: ADI Download
+analysis: Log Analysis
+reflector: Reflector
+faq: FAQ
