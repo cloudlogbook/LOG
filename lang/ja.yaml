@@ -24,7 +24,6 @@ notsame: パスワードが一致しません
 name_char: ログインユーザ名は半角英数字＋記号(.-_+)のみ入力可能です
 callsign_char: コールサインは半角英数字+全角カタカナのみ入力可能です
 req_agree: 利用規約の同意が必要です
-confirm: 確認
 regist_sendmail: 新規会員登録のメールアドレス確認メールを送りました。内容のご確認をお願いします。迷惑メールフォルダに振り分けられている可能性もございます。
 regist_mail_sbj: 【重要】Ah-huh LOG 会員登録確認メール
 regist_mail_body: 登録の確認メールです。登録する場合は、以下のURLから最終確認を行ってください。
@@ -57,6 +56,7 @@ secret: ***非表示***
 edit: 決定
 user_admin: ユーザ管理
 log: ログ
+time: 時刻
 timezone: タイムゾーン
 timezone_err: タイムゾーン指定が違います
 station_admin: 局情報管理
@@ -102,3 +102,21 @@ analysis: ログ分析
 reflector: リフレクタ
 add_logs_err: ログ追加できませんでした。内容をご確認ください
 faq: よくある質問
+report: レポート
+request: リクエスト
+validation: 検証
+query_descr: あなた宛のQSLレポートを確認します。
+valid_descr: QSL レポートのID 検証をします。ID(nnnnn@xxxxxxxxxxxxxxxxxxxxxxxxxxxx).
+year: 年（西暦）
+month: 月
+day: 日
+hour: 時
+qsl_error: エラー：レポートが見つかりませんでした。
+qsl_warn: 【警告】過度な不正アクセスを検知しました。しばらく経ってから再度ご確認ください。
+qsl_download: QSLダウンロード
+qsl_color: QSL文字色
+error_ret: 入力項目が不足、もしくは間違っています。
+qsl_file: QSL画像(1024x600)
+qsl_upload: アップロード
+qsl_valid: OK - このIDのレポートは有効です。
+qsl_invalid: NG - このIDのレポートは無効です。

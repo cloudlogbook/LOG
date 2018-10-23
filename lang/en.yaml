@@ -14,7 +14,6 @@ signout: Signout
 new_regist: Regist
 hkesk: alphabet,number,._-+
 hkes_call: alphabet,number
-confirm: Re Enter
 terms: Terms & Conditions
 agree: I Accept 
 eight_char: 8 or more characters
@@ -24,7 +23,7 @@ notsame: not same password
 name_char: username must be alphabet,number and ._-+
 callsign_char: callsign must be alphabet and number.
 req_agree: requre agreement Terms & Conditions.
-confirm: Registration Confirm
+confirm: Confirm
 regist_sendmail: Send E-Mail your address. Please check your mail. please check your spam folder.
 regist_mail_sbj: Ah-huh LOG registration confirm
 regist_mail_body: This is confirmation mail. Please access URL as follow, if you accept registration..
@@ -58,6 +57,7 @@ edit: Submit
 pen: Edit
 user_admin: User Settings
 log: LOG
+time: Time
 timezone: TimeZone
 timezone_err: Timezone missmatch
 station_admin: Station Settings
@@ -96,3 +96,21 @@ adi_download: ADI Download
 analysis: Log Analysis
 reflector: Reflector
 faq: FAQ
+report: Report
+request: Request
+validation: Validation
+query_descr: QSL report request. please fill form as bellow.
+valid_descr: QSL report ID validation (nnnnn@xxxxxxxxxxxxxxxxxxxxxxxxxxxx).
+year: Year
+month: Month
+day: Day
+hour: Hour
+qsl_error: Error - No match records. 
+qsl_warn: Warning - Excessive errors. wait for 5 minutes
+qsl_download: Download
+qsl_color: QSL Word color
+error_ret: error - fill all fields.
+qsl_file: QSL Image(1024x600)
+qsl_upload: Upload
+qsl_valid: OK - This ID is valid.
+qsl_invalid: NG - This ID is invalid.
