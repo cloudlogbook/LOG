@@ -1,7 +1,7 @@
 # LOG
 
 Cloud logbook for HAM(amateur radio)
-http://log.ah-huh.net
+https://cloudlogbook.net
 
 Langage file
 pls contribution other langs.
